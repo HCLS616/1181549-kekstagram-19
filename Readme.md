@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Бондарев](https://up.htmlacademy.ru/javascript/19/user/1181549).
-* Наставник: `Неизвестно`.
+* Наставник: `Наставник`.
 
 ---
 
